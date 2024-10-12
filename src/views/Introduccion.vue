@@ -8,6 +8,8 @@
         span
           i.fas.fa-info
       h1 Introducción
+
+    p.mb-5(data-aos="fade-left") El alistamiento es uno de los procedimientos más importantes en el quehacer de la formación virtual. En componente formativo, conocerá cada una de las acciones a realizar en este primer momento de la ejecución de la formación virtual y las diferentes herramientas a trabajar en el LMS del SENA.
     
     figure.mb-5(data-aos="zoom-in")
       .video

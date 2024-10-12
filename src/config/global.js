@@ -1,7 +1,9 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE_DEL_COMPONENTE_FORMATIVO',
-    descripcionCurso: 'BREVE_DESCRIPCIÓN',
+    componenteFormativo:
+      'Ejecución en el LMS, según orientaciones institucionales para la formación virtual',
+    descripcionCurso:
+      'La ejecución de un LMS sirve para organizar, gestionar y facilitar el proceso de enseñanza. Al momento de realizarla, se deben tener en cuenta aspectos como la centralización del contenido, el seguimiento del progreso, la facilitación de la comunicación, la personalización del aprendizaje, la accesibilidad, el análisis de datos, entre otros aspectos, que son de utilidad para modernizar y optimizar un entorno virtual.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -31,28 +33,32 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo_de_primer_nivel',
+        titulo: 'Lineamientos institucionales (SENA) para la formación virtual',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo_de_segundo_nivel',
+            titulo: 'Estrategias de implementación',
             hash: 't_1_1',
           },
+          {
+            numero: '1.2',
+            titulo:
+              'Implementación de estrategias didácticas activas aplicadas en Ambientes Virtuales de Aprendizaje',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Implementación de actividades de aprendizaje',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo:
+              'Implementación de estrategias para el seguimiento del aprendizaje en el LMS	25',
+            hash: 't_1_4',
+          },
         ],
-      },
-
-      {
-        nombreRuta: 'tema2',
-        numero: '2',
-        titulo: 'Titulo_de_primer_nivel',
-        desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'tema3',
-        numero: '3',
-        titulo: 'Titulo_de_primer_nivel',
-        desarrolloContenidos: true,
       },
     ],
     subMenu: [
