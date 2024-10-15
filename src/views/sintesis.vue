@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5(data-aos="fade-right") A_continuación_se_muestra_un_mapa_conceptual
+    p.mb-5(data-aos="fade-right") Por medio del siguiente mapa conceptual, se describe la temática tratada durante este componente formativo, el cual resalta los aspectos presentes en la ejecución del LMS SENA.
 
     .row.justify-content-center
       .col-lg-10.mb-5(data-aos="fade-right")

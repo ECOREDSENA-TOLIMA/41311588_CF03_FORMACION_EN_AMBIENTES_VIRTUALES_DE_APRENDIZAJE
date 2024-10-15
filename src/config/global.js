@@ -108,28 +108,77 @@ export default {
   },
   complementario: [
     {
-      tema: 'Tema_complementario',
-      referencia: 'Referencia_complementario',
-      tipo: 'Tipo_complementario',
-      link: 'Link_complementario',
+      tema: '1. Lineamientos institucionales (SENA) para la formación virtual',
+      referencia:
+        'SENA. (2019). Aplicativo CompromISO. Guía de orientaciones para la formación en ambientes virtuales de aprendizaje.',
+      tipo: 'Documento',
+      link: 'https://compromiso.sena.edu.co/',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema:
+        '1.2 Implementación de estrategias didácticas activas aplicadas en Ambientes Virtuales de Aprendizaje',
+      referencia: 'SENA. (2011). Estrategias didácticas. Bpo Comercio.',
+      tipo: 'Blog',
+      link:
+        'https://bpocentrodecomercio.blogspot.com/2011/10/estrategias-didacticas.html',
     },
   ],
   glosario: [
     {
-      termino: 'Termino_glosario',
-      significado: 'Significado_glosario',
+      termino: 'Actividad de aprendizaje',
+      significado:
+        'acciones integradoras e integradas entre sí, realizadas por los aprendices con la orientación del instructor - tutor a lo largo del proceso formativo. Son objeto directo de aprendizaje, lo que indica que existe una relación directa entre lo que se debe hacer en el centro formativo y lo que más tarde se hará en el mundo laboral (SENA, 2020).',
+    },
+    {
+      termino: 'Aprendizaje',
+      significado:
+        'proceso mediante el cual el aprendiz comprende, asimila, incorpora y aplica conocimientos, habilidades, destrezas y actitudes que lo hacen competente para actuar técnica, metodológica, participativa y socialmente en el trabajo (SENA, 2020).',
+    },
+    {
+      termino: 'Aprendizaje colaborativo',
+      significado:
+        'conjunto de métodos que se aplican en grupos pequeños de entrenamiento y desarrollo de habilidades mixtas, donde cada miembro del grupo es responsable, tanto de su aprendizaje como de los demás miembros del grupo.',
+    },
+    {
+      termino: 'Estrategia de aprendizaje',
+      significado:
+        'combinación de métodos, medios y mediaciones didácticas, utilizadas por los instructores y aprendices para facilitar el aprendizaje y la obtención de los resultados definidos en el diseño curricular (SENA, 2020).',
+    },
+    {
+      termino: 'Evidencia de aprendizaje',
+      significado:
+        'manifestación del aprendizaje que se refiere a la comprobación de lo que “sabe”, “sabe hacer” y “es” el aprendiz. Pueden ser de conocimiento, de desempeño y de producto, de las cuales se pueden inferir los logros de aprendizaje y establecer el desarrollo o no de las competencias (SENA, 2020).',
+    },
+    {
+      termino: 'Guía de aprendizaje',
+      significado:
+        'son instrumentos o recursos de planificación del aprendizaje que facilitan el proceso de enseñanza - aprendizaje - evaluación, a través de las cuales se comunica a los aprendices los compromisos y objetivos del proceso de aprendizaje.',
+    },
+    {
+      termino: 'Rúbrica',
+      significado:
+        'es un conjunto de criterios y normas establecidos por los instructores, con el fin de evidenciar la calidad de los resultados u objetivos que se deben alcanzar en una actividad formativa.',
+    },
+    {
+      termino: 'Técnica didáctica',
+      significado:
+        'corresponde a las distintas metodologías y métodos sistematizados que pueden ser usados para el desarrollo de determinada actividad de aprendizaje. Entre ellos, se considera el estudio de caso, análisis de objeto – sistemas, análisis de servicios – procesos, simulaciones, juego de roles, socialización de conceptos (SENA, 2020).',
     },
   ],
   referencias: [
     {
-      referencia: 'Nombre_referencias',
-      link: 'Link_referencias',
+      referencia:
+        'Ángel, W. I. (2019). Guía de orientaciones para la formación en Ambientes Virtuales de Aprendizaje. Servicio Nacional de Aprendizaje SENA.',
+      link: '',
+    },
+    {
+      referencia:
+        'Carrera, X., Zubizarreta, M., Rodríguez, V., Arana, N. y Astigarraga, E. (2007). Marco conceptual y pedagógico para la implementación de la Formación por Proyectos en el SENA.',
+      link: '',
+    },
+    {
+      referencia: 'SENA. (2020). Glosario SENA.',
+      link: 'https://www.sena.edu.co/es-co/ciudadano/Paginas/glosario.aspx',
     },
   ],
   creditos: [
