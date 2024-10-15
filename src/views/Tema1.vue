@@ -128,7 +128,7 @@
 
     figure.mb-5(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Y1RHqjHfQxc?si=jMHfhXv_F8ajYI54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .titulo.mb-5(data-aos="flip-up")
       img(src='@/assets/curso/temas/ico.svg', alt='Imagen decorativa')
@@ -138,7 +138,7 @@
 
     figure.mb-5(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/QziKvfPmyj4?si=CGXc1ixtueSZN01u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mb-5(data-aos="fade-left") El manejo adecuado y trabajo continuo de los foros, garantiza la comunicación asincrónica continua, activa y asertiva entre y con los aprendices del curso.
 
@@ -286,7 +286,7 @@
 
     figure.mb-5(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/0qc6T4JDExw?si=kbUv_LtvKC7ckbHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -475,10 +475,108 @@
     
     p.mb-5(data-aos="fade-left") Estas actividades se encuentran descriptas en la guía de aprendizaje.
 
+    .titulo.mb-5(data-aos="flip-up")
+      img(src='@/assets/curso/temas/ico.svg', alt='Imagen decorativa')
+      h5.mb-0 Guía de aprendizaje
+
+    figure.mb-5
+      img(src='@/assets/curso/temas/tema1/img29.png', alt='Imagen decorativa')
+
+    p.mb-5(data-aos="fade-left") La guía de aprendizaje permite contextualizar al aprendiz en la temática a trabajar, enuncia y describe las diferentes actividades de aprendizaje a desarrollar enfocadas en las diferentes técnicas activas e indica todas las evidencias a entregar, los recursos a consultar y los criterios de evaluación asociados.
+
+    .titulo.mb-5(data-aos="flip-up")
+      img(src='@/assets/curso/temas/ico.svg', alt='Imagen decorativa')
+      h5.mb-0 Evidencias de aprendizaje
+
+    p.mb-5(data-aos="fade-left") Las evidencias de aprendizaje son evaluadas por el instructor utilizando técnicas e instrumentos de evaluación descritos en la guía, permitiendo reconocer los logros obtenidos por el aprendiz en términos del saber, saber hacer y del ser. Las evidencias pueden ser: de conocimiento, de desempeño y de producto, según sea el criterio a evaluar y la estrategia didáctica activa a emplear. Cada programa define el número de evidencias a solicitar, de acuerdo con los criterios de evaluación relacionados en cada resultado de aprendizaje.
+
+    .row.justify-content-center.mb-5
+      .col-lg-4.col-md-11.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
+        .tarjetas-up(@mouseover="mostrarIndicador = false")
+          .indicador--hover(v-if="mostrarIndicador")
+          img(src='@/assets/curso/temas/tema1/img30.svg' alt="Imagen decorativa")
+          .tarjetas-up_card.BG08.p-xl-6.p-lg-2.p-sm-4.px-3
+            .title.d-flex.align-items-center.justify-content-center.mb-4
+              span
+                i.fas.fa-caret-up.fa-2x.me-3
+                i.fas.fa-caret-down.fa-2x.me-3
+              h4.mb-0 Evidencias de conocimiento
+            p.text-center.mb-0 Deben permitir la comprensión de los principios, teorías y maneras de utilizar y aplicar el conocimiento en situaciones cotidianas o nuevas.
+
+      .col-lg-4.col-md-11.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
+        .tarjetas-up(@mouseover="mostrarIndicador = false")
+          .indicador--hover(v-if="mostrarIndicador")
+          img(src='@/assets/curso/temas/tema1/img31.svg' alt="Imagen decorativa")
+          .tarjetas-up_card.BG08.p-xl-6.p-lg-2.p-sm-4.px-3
+            .title.d-flex.align-items-center.justify-content-center.mb-3
+              span
+                i.fas.fa-caret-up.fa-2x.me-3
+                i.fas.fa-caret-down.fa-2x.me-3
+              h4.mb-0 Evidencias de desempeño
+            p.text-center.mb-0 Deben permitir obtener información sobre cómo el aprendiz ejecuta (proceso) una actividad y genera el resultado obtenido (producto); es decir, constituye el escenario propicio para poner en juego sus conocimientos, habilidades y actitudes.
+
+      .col-lg-4.col-md-11.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
+        .tarjetas-up(@mouseover="mostrarIndicador = false")
+          .indicador--hover(v-if="mostrarIndicador")
+          img(src='@/assets/curso/temas/tema1/img32.svg' alt="Imagen decorativa")
+          .tarjetas-up_card.BG08.p-xl-6.p-lg-2.p-sm-4.px-3
+            .title.d-flex.align-items-center.justify-content-center.mb-4
+              span
+                i.fas.fa-caret-up.fa-2x.me-3
+                i.fas.fa-caret-down.fa-2x.me-3
+              h4.mb-0 Evidencias de producto
+            p.text-center.mb-0 Son aquellas en las que muestre un producto tangible que refleje el aprendizaje alcanzado y permite hacer inferencias sobre el proceso o método utilizado.
+    
+    p.mb-4(data-aos="fade-left") Se hace necesario programar actividades de trabajo colaborativo, con el objetivo de construir conocimiento en comunidad, además, elaborar ideas y/o apreciaciones sobre una temática específica. Algunas herramientas utilizadas para actividades de trabajo colaborativo son: blogs, documentos colaborativos y wikis.
+    p.mb-4(data-aos="fade-left") Las evidencias deben incluir un enlace para su envío y estar programadas según fechas del cronograma.
+    p.mb-5(data-aos="fade-left") Además de las actividades individuales se pueden programar actividades en grupo, nombrando un líder para cada uno. Esta actividad grupal le permite valorar, además del conocimiento, el desempeño de los aprendices dentro de un equipo de trabajo.
+
+    .titulo.mb-5(data-aos="flip-up")
+      img(src='@/assets/curso/temas/ico.svg', alt='Imagen decorativa')
+      h5.mb-0 Crear grupos en el LMS 
+
+    p.mb-5(data-aos="fade-left") Teniendo en cuenta lo anterior, a continuación, se muestra los pasos para crear grupos en el LMS SENA y la posibilidad de asignarlos a una evidencia; es importante tenerlos presentes, ya que esto ayudará mucho a crear estos espacios colaborativos en cada curso, cuando sean requeridos:
+
+    figure.mb-5(data-aos="zoom-in")
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Wlm--rFv7GE?si=oA1cvQn1X1LNhe2D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+    p.mb-5(data-aos="fade-left") El instructor debe verificar que las actividades planteadas en la guía de aprendizaje están orientadas a cumplir con los criterios de evaluación de los resultados de aprendizaje (RAP), de la comprensión y estructura de estas actividades depende el éxito del aprendizaje en la formación virtual.
+    
+    .titulo.mb-5(data-aos="flip-up")
+      img(src='@/assets/curso/temas/ico.svg', alt='Imagen decorativa')
+      h5.mb-0 Crear evidencias
+
+    p.mb-5(data-aos="fade-left") Ahora, es momento de revisar cómo se crean las evidencias en el LMS SENA y para ello, se muestra el procedimiento en el siguiente video, téngalo muy presente, porque de ello depende la correcta utilización de esta herramienta que evalúa los entregables del aprendiz en cada curso:
+
+    figure.mb-5(data-aos="zoom-in")
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/QhjObU-MzAQ?si=EQiGGxdrDPOYm1hc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+    .titulo.mb-5(data-aos="flip-up")
+      img(src='@/assets/curso/temas/ico.svg', alt='Imagen decorativa')
+      h5.mb-0 Crear recursos
+
+    p.mb-5(data-aos="fade-left") De igual forma, podrá crear actividades interactivas (recurso Scorm o contenido interactivo “.zip”), que podrán ser evaluadas automáticamente por el LMS; así que preste mucha atención al siguiente video:
+
+    figure.mb-5(data-aos="zoom-in")
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/nszGjItB4Xs?si=7Xze_1PqjmA6nVu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
     separador
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.4 Implementación de estrategias para el seguimiento del aprendizaje en el LMS	25
-      
+      h2 1.4 Implementación de estrategias para el seguimiento del aprendizaje en el LMS
+
+    .row.justify-content-center(data-aos="flip-up")
+      .col-lg-10.col-12
+        .row.justify-content-center
+          .col-lg-6.col-12
+            p Es fundamental garantizar la participación activa del aprendiz durante todo el proceso formativo, por esto es necesario que el instructor realice un seguimiento constante a la entrega de las evidencias programadas.
+            .cajon.cajon1.color-secundario.p-4.mb-4(data-aos="Fade-left") 
+              p.mb-0 En el LMS se encontrarán herramientas que facilitarán recolectar información y tomar acciones de seguimiento de manera personalizada.
+          .col-lg-6.col-12
+            figure.mb-5
+              img(src='@/assets/curso/temas/tema1/img33.png', alt='Imagen decorativa')
 </template>
 
 <script>
