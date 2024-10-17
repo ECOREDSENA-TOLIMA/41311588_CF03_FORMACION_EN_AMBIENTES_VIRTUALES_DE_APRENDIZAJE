@@ -254,7 +254,7 @@
               figure
                 img(src="@/assets/curso/temas/tema1/img18.svg", alt="Imagen decorativa").img100
             .col
-              p Para los programas Técnicos y Tecnólogos deberán realizarse dos sesiones, una en la primera semana de la etapa de inducción y otra que será desarrollada durante la primera semana de inicio del programa (Etapa Lectiva), al igual que en las Especializaciones Tecnológicas.
+              p Para los programas "Técnicos" y "Tecnólogos" deberán realizarse dos sesiones, una en la primera semana de la etapa de inducción y otra que será desarrollada durante la primera semana de inicio del programa (etapa lectiva), al igual que en las "Especializaciones Tecnológicas".
         .crd.crd--avatarHorizontal.py-4
           .row.align-items-center
             .col-auto
@@ -268,7 +268,7 @@
               figure
                 img(src="@/assets/curso/temas/tema1/img20.svg", alt="Imagen decorativa").img100
             .col
-              p Para el caso de Formaciones Tituladas a Distancia se deberá programar como mínimo una sesión sincrónica quincenal con los aprendices. 
+              p Para el caso de "Formaciones Tituladas a Distancia" se deberá programar como mínimo una sesión sincrónica quincenal con los aprendices. 
 
     p.mb-5(data-aos="fade-left") Todas las conferencias web o sesiones en línea deberán quedar configuradas mínimo dos días hábiles antes a la realización de esta.
 
