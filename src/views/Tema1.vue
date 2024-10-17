@@ -25,11 +25,11 @@
       h5.mb-0 Etiqueta de internet o netiqueta
 
     p.mb-4(data-aos="fade-left") Son las normas que regulan el comportamiento, los modales y el lenguaje apropiado de los usuarios al momento de comunicarse a través de internet en sus diferentes herramientas y aplicaciones como: foros, blogs, correo electrónico, chats y redes sociales.
-    p.mb-4(data-aos="fade-left") A continuación, encontrará diez normas que le ayudarán a mantener una buena relación y evitar conflictos con los demás usuarios en la web.
+    p.mb-4(data-aos="fade-left") A continuación, se presentan diez normas que ayudarán a mantener una buena relación y evitar conflictos con los demás usuarios en la web.
 
     .tarjeta.tarjeta--BG06.px-4.px-md-5.pt-4.mb-5.p-4(data-aos="flip-up")
       .tarjeta.tarjeta--blanca.p-4
-        PasosB.color-acento-botones.p-4
+        PasosB.color-acento-botones.p-5
           .row.justify-content-center(titulo="Regla 1")
             .col-lg-6.order-lg-1.order-2
               h5.mb-4 Buena educación
@@ -124,7 +124,7 @@
       img(src='@/assets/curso/temas/ico.svg', alt='Imagen decorativa')
       h5.mb-0 Anuncios
 
-    p.mb-5(data-aos="fade-left") Luego de explicadas las normas que le ayudarán a evitar conflictos en la web, es preciso que conozca por medio del siguiente video, todo lo relacionado con los anuncios que se deben llevar a cabo en la formación virtual, tenga presenta la cantidad requerida y lo que en cada uno se debe indicar:
+    p.mb-5(data-aos="fade-left") Luego de explicadas las normas que ayudarán a evitar conflictos en la web, es preciso conocer, por medio del siguiente video, todo lo relacionado con los anuncios que se deben publicar en la formación virtual. Es importante tener presente la cantidad de información requerida y lo que se debe indicar en cada anuncio:
 
     figure.mb-5(data-aos="zoom-in")
       .video
@@ -134,7 +134,7 @@
       img(src='@/assets/curso/temas/ico.svg', alt='Imagen decorativa')
       h5.mb-0 Foros
 
-    p.mb-5(data-aos="fade-left") Ya teniendo claridad sobre lo que conlleva realizar los anuncios en el curso, es momento de conocer a través del siguiente video, los procesos presentes en los foros; recuerde lo explicado en la norma sobre la prudencia en las opiniones:
+    p.mb-5(data-aos="fade-left") Ya teniendo claridad sobre lo que conlleva realizar los anuncios en el curso, es momento de conocer, a través del siguiente video, los procesos presentes en los foros. Se debe recordar lo explicado en la norma sobre la prudencia en las opiniones:
 
     figure.mb-5(data-aos="zoom-in")
       .video
@@ -282,7 +282,7 @@
       img(src='@/assets/curso/temas/ico.svg', alt='Imagen decorativa')
       h5.mb-0 Chat
 
-    p.mb-5(data-aos="fade-left") Las sesiones de chat son un espacio para interactuar de forma sincrónica, aclarar dudas temáticas y técnicas que se le presenten al aprendiz. Sabiendo esto, es importante que conozca el siguiente video, el cual explica todo lo relacionado con esta herramienta y su funcionalidad en el LMS:
+    p.mb-5(data-aos="fade-left") Las sesiones de chat son un espacio para interactuar de forma sincrónica, aclarar dudas temáticas y técnicas que se le presenten al aprendiz. Sabiendo esto, es importante conocer el siguiente video, el cual explica todo lo relacionado con esta herramienta y su funcionalidad en el LMS:
 
     figure.mb-5(data-aos="zoom-in")
       .video
@@ -547,7 +547,7 @@
       img(src='@/assets/curso/temas/ico.svg', alt='Imagen decorativa')
       h5.mb-0 Crear evidencias
 
-    p.mb-5(data-aos="fade-left") Ahora, es momento de revisar cómo se crean las evidencias en el LMS SENA y para ello, se muestra el procedimiento en el siguiente video, téngalo muy presente, porque de ello depende la correcta utilización de esta herramienta que evalúa los entregables del aprendiz en cada curso:
+    p.mb-5(data-aos="fade-left") Ahora, es momento de revisar cómo se crean las evidencias en el LMS SENA y para ello, se muestra el procedimiento en el siguiente video, es importante tenerlo presente, porque de ello depende la correcta utilización de esta herramienta que evalúa los entregables del aprendiz en cada curso:
 
     figure.mb-5(data-aos="zoom-in")
       .video
@@ -557,7 +557,7 @@
       img(src='@/assets/curso/temas/ico.svg', alt='Imagen decorativa')
       h5.mb-0 Crear recursos
 
-    p.mb-5(data-aos="fade-left") De igual forma, podrá crear actividades interactivas (recurso Scorm o contenido interactivo “.zip”), que podrán ser evaluadas automáticamente por el LMS; así que preste mucha atención al siguiente video:
+    p.mb-5(data-aos="fade-left") De igual forma, se podrán crear actividades interactivas (recurso Scorm o contenido interactivo “.zip”), que podrán ser evaluadas automáticamente por el LMS; así que prestar mucha atención al siguiente video:
 
     figure.mb-5(data-aos="zoom-in")
       .video
