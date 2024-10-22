@@ -68,7 +68,7 @@
         .row.justify-content-center(titulo="Regla 5")
           .col-lg-6.order-lg-1.order-2
             h5.mb-4 Forma de escritura
-            p.mb-0 cuidar las reglas de ortografía, hay que recordar que se debe mantener una buena redacción y gramática; esto evitará que el mensaje no sea distorsionado y, además, hay que evitar utilizar letras mayúsculas – lenguaje ofensivo – o incomodar a las personas con las personas.
+            p.mb-0 Cuidar las reglas de ortografía, hay que recordar que se debe mantener una buena redacción y gramática; esto evitará que el mensaje no sea distorsionado y, además, hay que evitar utilizar letras mayúsculas – lenguaje ofensivo – o incomodar a las personas con las personas.
 
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
@@ -418,7 +418,7 @@
             figure
               img(src='@/assets/curso/temas/tema1/img26.svg', alt='Imagen decorativa')
           
-        h4.text-center Referenciar competencias intitucionales
+        h4.text-center Referenciar competencias institucionales
         p Tomar como referencia para su definición las competencias específicas y transversales definidas en la institución.
 
       .col-lg.tarjeta.color4.p-5
@@ -490,7 +490,7 @@
     p.mb-5(data-aos="fade-left") Las evidencias de aprendizaje son evaluadas por el instructor utilizando técnicas e instrumentos de evaluación descritos en la guía, permitiendo reconocer los logros obtenidos por el aprendiz en términos del saber, saber hacer y del ser. Las evidencias pueden ser: de conocimiento, de desempeño y de producto, según sea el criterio a evaluar y la estrategia didáctica activa a emplear. Cada programa define el número de evidencias a solicitar, de acuerdo con los criterios de evaluación relacionados en cada resultado de aprendizaje.
 
     .row.justify-content-center.mb-5
-      .col-lg-4.col-xl-4.col-md-11.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
+      .col-xl-4.col-lg-6.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema1/img30.svg' alt="Imagen decorativa")
@@ -502,7 +502,7 @@
               h4.mb-0 Evidencias de conocimiento
             p.text-center.mb-0 Deben permitir la comprensión de los principios, teorías y maneras de utilizar y aplicar el conocimiento en situaciones cotidianas o nuevas.
 
-      .col-lg-4.col-xl-4.col-md-11.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
+      .col-xl-4.col-lg-6.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema1/img31.svg' alt="Imagen decorativa")
@@ -514,7 +514,7 @@
               h4.mb-0 Evidencias de desempeño
             p.text-center.mb-0 Deben permitir obtener información sobre cómo el aprendiz ejecuta (proceso) una actividad y genera el resultado obtenido (producto); es decir, constituye el escenario propicio para poner en juego sus conocimientos, habilidades y actitudes.
 
-      .col-lg-4.col-xl-4.col-md-11.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
+      .col-xl-4.col-lg-6.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema1/img32.svg' alt="Imagen decorativa")

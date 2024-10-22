@@ -331,19 +331,27 @@
     height: 100%
     left: 0
     bottom: -82%
+    @media (max-width: $bp-max-lg)
+      bottom: -85%
+    @media (max-width: $bp-max-md)
+      bottom: -87%
+    @media (max-width: $bp-max-sm)
+      bottom: -85%
     i:last-child
       display: none
   &:hover
     .tarjetas-up_card
       bottom: -40%
       @media (max-width: $bp-max-xl)
-        bottom: -30%
+        bottom: -20%
       @media (max-width: $bp-max-lg)
         bottom: -30%
       @media (max-width: $bp-max-md)
-        bottom: -35%
+        bottom: -47%
+      @media (max-width: $bp-max-sm)
+        bottom: -38%
       @media (max-width: $bp-max-xs)
-        bottom: -15%
+        bottom: -20%
     i:first-child
       display: none
     i:last-child

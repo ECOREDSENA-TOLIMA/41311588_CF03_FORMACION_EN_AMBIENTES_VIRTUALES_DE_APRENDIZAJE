@@ -55,7 +55,7 @@ export default {
           {
             numero: '1.4',
             titulo:
-              'Implementación de estrategias para el seguimiento del aprendizaje en el LMS	25',
+              'Implementación de estrategias para el seguimiento del aprendizaje en el LMS',
             hash: 't_1_4',
           },
         ],
@@ -268,7 +268,7 @@ export default {
         },
         {
           nombre: 'Sebastian Trujillo Afanador',
-          cargo: 'Desarrollador full stack',
+          cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
