@@ -110,7 +110,7 @@ export default {
     {
       tema: '1. Lineamientos institucionales (SENA) para la formación virtual',
       referencia:
-        'SENA. (2019). Aplicativo CompromISO. Guía de orientaciones para la formación en ambientes virtuales de aprendizaje.',
+        'SENA. (2020). Aplicativo CompromISO. Guía de orientaciones para la formación en ambientes virtuales de aprendizaje.',
       tipo: 'Documento',
       link: 'https://compromiso.sena.edu.co/',
     },
@@ -168,7 +168,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Ángel, W. I. (2019). Guía de orientaciones para la formación en Ambientes Virtuales de Aprendizaje. Servicio Nacional de Aprendizaje SENA.',
+        'Ángel, W. I. (2020). Guía de orientaciones para la formación en ambientes virtuales de aprendizaje -AVA-. Servicio Nacional de Aprendizaje SENA.',
       link: '',
     },
     {
