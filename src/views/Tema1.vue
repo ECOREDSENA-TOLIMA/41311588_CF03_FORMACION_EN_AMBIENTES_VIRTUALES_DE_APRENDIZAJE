@@ -538,7 +538,7 @@
 
     figure.mb-5(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/Wlm--rFv7GE?si=oA1cvQn1X1LNhe2D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/-mKdjAkY0tY?si=N8qAfPCnBQITipFS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mb-5(data-aos="fade-left") El instructor debe verificar que las actividades planteadas en la guía de aprendizaje están orientadas a cumplir con los criterios de evaluación de los resultados de aprendizaje (RAP), de la comprensión y estructura de estas actividades depende el éxito del aprendizaje en la formación virtual.
     
