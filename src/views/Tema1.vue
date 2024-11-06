@@ -299,7 +299,7 @@
           .bloque-texto-f__comillas
             i.fas.fa-quote-left
             i.fas.fa-quote-right
-          h4.text-regular.bloque-texto-f__texto La estrategia es un sistema de planificación aplicado a un conjunto articulado de acciones, que permite conseguir un objetivo, sirve para obtener determinados resultados. De manera que no se puede hablar de que se usan estrategias cuando no hay una meta hacia donde se orienten las acciones. A diferencia del método, la estrategia es flexible y puede tomar forma con base en las metas a donde se quiere llegar.
+          p.text-regular.bloque-texto-f__texto La estrategia es un sistema de planificación aplicado a un conjunto articulado de acciones, que permite conseguir un objetivo, sirve para obtener determinados resultados. De manera que no se puede hablar de que se usan estrategias cuando no hay una meta hacia donde se orienten las acciones. A diferencia del método, la estrategia es flexible y puede tomar forma con base en las metas a donde se quiere llegar.
           .bloque-texto-f__autor.mb-3
 
     p.mb-5(data-aos="fade-left") La estrategia didáctica es una guía de acción que orienta a la obtención de uno o varios resultados de aprendizaje, dando sentido y coordinación a todo lo que se realiza para llegar a ellos.
@@ -313,7 +313,7 @@
           br
           br
 
-    p.mb-5(data-aos="fade-left") En el documento “Marco Conceptual y Pedagógico para la Implementación de la Formación por Proyectos en el SENA”, en su numeral 3, menciona que, las técnicas didácticas activas más utilizadas, son:
+    p.mb-5(data-aos="fade-left") En el documento “Marco conceptual y pedagógico para la implementación de la formación por proyectos en el SENA”, en su numeral 3, menciona que, las técnicas didácticas activas más utilizadas, son:
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-4.d-lg-flex.d-none
@@ -384,7 +384,7 @@
                   i.fas.fa-angle-right
                   | Sociodrama.
 
-    p.mb-5(data-aos="fade-left") Para profundizar en cada una de las estrategias y su implementación, se puede consultar el documento “Marco conceptual y pedagógico para la implementación de la Formación por Proyectos en el SENA”, el cual se encuentra anexo:
+    p.mb-5(data-aos="fade-left") Para profundizar en cada una de las estrategias y su implementación, se puede consultar el documento “Marco conceptual y pedagógico para la implementación de la formación por proyectos en el SENA”, el cual se encuentra anexo:
 
     .tarjeta.color2.p-3.mb-5(data-aos="flip-up")
       .row.justify-content-around.align-items-center
@@ -393,7 +393,7 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h3.mb-1 Marco Conceptual y Pedagógico Para La Implementación de la Formación por Proyectos en el SENA
+              h3.mb-1 Marco conceptual y pedagógico para la implementación de la formación por proyectos en el SENA
               p Documento institucional
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(href="https://zajuna.sena.edu.co/Repositorio/Complementaria/institution/SENA/CienciasSociales/41311588/Contenido/OVA/CF3_FORMACION_AMBIENTES_VIRTUALES/media/documentos/marco_conceptual_pedagogico.pdf" target="_blank")
@@ -450,7 +450,7 @@
               ul.lista-ul.mb-0
                 li 
                   i.fas.fa-angle-right
-                  | Guía de aprendizaje
+                  | Guía de aprendizaje.
                 li 
                   i.fas.fa-angle-right
                   | Resultado de aprendizaje.

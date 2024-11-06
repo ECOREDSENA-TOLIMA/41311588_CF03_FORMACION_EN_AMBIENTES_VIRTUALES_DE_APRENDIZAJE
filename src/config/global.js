@@ -173,7 +173,7 @@ export default {
     },
     {
       referencia:
-        'Carrera, X., Zubizarreta, M., Rodríguez, V., Arana, N. y Astigarraga, E. (2007). Marco conceptual y pedagógico para la implementación de la Formación por Proyectos en el SENA.',
+        'Carrera, X., Zubizarreta, M., Rodríguez, V., Arana, N. y Astigarraga, E. (2007). Marco conceptual y pedagógico para la implementación de la formación por proyectos en el SENA.',
       link: '',
     },
     {
