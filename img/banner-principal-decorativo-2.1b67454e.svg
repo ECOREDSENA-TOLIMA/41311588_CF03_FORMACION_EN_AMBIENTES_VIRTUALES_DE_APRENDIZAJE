@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="107.075" height="95.621" viewBox="0 0 107.075 95.621">
+  <g id="Group_1099276" data-name="Group 1099276" transform="translate(-1272.823 -398.532)">
+    <path id="Union_4" data-name="Union 4" d="M76.177,93.263a49.434,49.434,0,0,1-4.36-4.735C63.263,77.3,50.6,78.289,37.594,79.189c-9.715.669-19.614,1.293-28.132-3.273A21.286,21.286,0,0,1,1.069,63.06,48.507,48.507,0,0,1,0,52.4,53.18,53.18,0,0,1,32.824,3.659a52.045,52.045,0,0,1,10-3.02A49.6,49.6,0,0,1,52.943.044,56.55,56.55,0,0,1,63.2,1.435,50.451,50.451,0,0,1,82.8,11.963a59.873,59.873,0,0,1,7.919,8.2c10.6,14.334,17.835,31.232,14.545,49.1C102.484,80.041,94.3,94.621,82.5,94.621A16.134,16.134,0,0,1,76.177,93.263Z" transform="translate(1379.398 493.654) rotate(180)" fill="#12405a" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+    <g id="computadora-de-escritorio" transform="translate(1301.401 424.774)">
+      <path id="Path_615717" data-name="Path 615717" d="M46.727,4H28.265V8.2H46.2V31.3H4.2V8.2H15.931V4H3.675A3.693,3.693,0,0,0,0,7.675V36.026A3.693,3.693,0,0,0,3.675,39.7H19.758a9.495,9.495,0,0,1-2.65,4.507A1.051,1.051,0,0,0,17.851,46h14.7a1.051,1.051,0,0,0,.743-1.793A9.733,9.733,0,0,1,30.617,39.7h16.11A3.693,3.693,0,0,0,50.4,36.026V7.675A3.693,3.693,0,0,0,46.727,4Z" transform="translate(0 4.401)" fill="#f3f9ff"/>
+      <g id="Group_1099275" data-name="Group 1099275" transform="translate(-2 1.286)">
+        <circle id="Ellipse_11507" data-name="Ellipse 11507" cx="3" cy="3" r="3" transform="translate(21.098 5.965)" fill="#fff"/>
+        <circle id="Ellipse_11508" data-name="Ellipse 11508" cx="3" cy="3" r="3" transform="translate(9.098 16.965)" fill="#fff"/>
+        <circle id="Ellipse_11509" data-name="Ellipse 11509" cx="3" cy="3" r="3" transform="translate(21.098 25.965)" fill="#fff"/>
+        <path id="Trazado_873609" data-name="Trazado 873609" d="M25,29.05,11.724,19.627,24.887,7.048l1.422,1.328L14.757,19.417,26.2,27.54Z" transform="translate(-1 1)" fill="#fff"/>
+      </g>
+      <rect id="Rectangle_401121" data-name="Rectangle 401121" width="16" height="2" rx="1" transform="translate(27.098 18.251)" fill="#fff"/>
+      <rect id="Rectangle_401122" data-name="Rectangle 401122" width="12" height="2" rx="1" transform="translate(27.098 22.251)" fill="#fff"/>
+      <rect id="Rectangle_401123" data-name="Rectangle 401123" width="15" height="2" rx="1" transform="translate(27.098 26.251)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
